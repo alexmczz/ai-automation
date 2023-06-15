@@ -1,6 +1,6 @@
-# Bash Script Generation Project
+# Interactive CLI AI project
 
-This project allows you to generate bash scripts using OpenAI's GPT-3.5 language model. It provides an interactive terminal interface where you can input a desired action, and the GPT model will generate a bash script based on the input.
+This project allows you to generate/executes bash scripts using OpenAI's GPT-3.5 language model. It provides an interactive terminal interface where you can input a desired action, and the GPT model will generate a bash script based on the input.
 
 ## Usage
 
