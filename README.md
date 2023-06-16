@@ -5,7 +5,7 @@ This project allows you to generate/executes bash scripts using OpenAI's GPT-3.5
 ## Usage
 
 1. Install the necessary dependencies.
-2. Run the `ai_automation.py` script.
+2. Run the `main.py` script.
 3. Enter your desired action to generate a bash script.
 
 ## Credits
