@@ -15,7 +15,7 @@ while True:
         break
     elif user_input.lower() == 'clear':
         os.system('clear')
-    prompt = f'without comentary please type out a bash script that will {user_input}\n'
+    prompt = f'without commentary please type out a bash script that will {user_input}\n'
     response = openai.Completion.create(
         engine='text-davinci-003',
         prompt=prompt,
